@@ -4,7 +4,7 @@
   "description": "Encode/decode DNS-SD TXT record RDATA fields",
   "main": "index.js",
   "dependencies": {
-    "buffer-indexof": "^1.0.0"
+    "buffer-indexof": "^1.1.1"
   },
   "devDependencies": {
     "tape": "^5.0.1",
